@@ -1,0 +1,1 @@
+# Map gen code got scrapped. I will probably do JSON dumps or CSV formatting for map maker, but I want an easy to use ui for map making.
